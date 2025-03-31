@@ -8,4 +8,4 @@ while True:
     offsetx = ran.randint(offsetmin,offsetmax)
     offsety = ran.randint(offsetmin,offsetmax)
     my_mouse.position = ((x + offsetx),(y + offsety))
-    #my_mouse.click(Button.left, 1)
+    my_mouse.click(Button.left, 1)
